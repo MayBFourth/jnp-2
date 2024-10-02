@@ -11,7 +11,7 @@
    
 3. Start the database:
    ```
-    docker compose up -d db
+    docker compose up -d 
     ```
 
 4. Go to CMD:

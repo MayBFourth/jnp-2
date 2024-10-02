@@ -16,7 +16,7 @@
 
 4. Go to CMD:
     ```
-   docker exec -it ltm-db-1 mysql - u root -p
+   docker exec -it <container-name> mysql - u root -p
     ```
 5. Grant permission to the user:
     ```
